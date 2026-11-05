@@ -1,0 +1,14 @@
+# Scratch and probe dumps from the build sessions
+chrome-prof/
+_*.txt
+shots/
+*.tmp.html
+node_modules/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
